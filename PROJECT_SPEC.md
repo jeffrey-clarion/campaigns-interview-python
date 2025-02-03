@@ -58,4 +58,5 @@ Design a system that allows creating call campaigns with configurable retry beha
 
 - Speed to an MVP version. How quickly can you arrive at a working version that passes the three tests?
 - Simplifying complexity. How well can you simplify the system to make it easier to implement and maintain?
-- Communication of tradeoffs. When you are prioritizing speed / simplicity, what are you giving up? - Understanding how to scale from 1->100. Can you explain the weakest links of your code and the adjustments that would be needed to scale?
+- Communication of tradeoffs. When you are prioritizing speed / simplicity, what are you giving up
+- Understanding how to scale from 1->100. Can you identify the weakest links of your code and the adjustments that would be needed to scale?
